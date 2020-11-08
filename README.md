@@ -1,6 +1,6 @@
 Concert Booking Service
 ==========
-Booking service: 
+Booking service developed using RESTful APIs: 
 - allows clients to retrieve information about concerts and performers
 - make reservations and check available/booked seats
 - authenticate users
